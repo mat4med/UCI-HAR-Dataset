@@ -1,6 +1,6 @@
 
-_italics_ script: run_analysis.R _italics_
-_italics created: November 14, 2015 _italics
+_script: run_analysis.R
+_created: November 14, 2015 _italics
 
 
 ### How to run run_analysis.R script:
