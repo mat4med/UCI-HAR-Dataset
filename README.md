@@ -1,5 +1,5 @@
 
-_italics script: run_analysis.R _italics
+_italics_ script: run_analysis.R _italics_
 _italics created: November 14, 2015 _italics
 
 
