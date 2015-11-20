@@ -25,7 +25,7 @@ _created: November 14, 2015_
 write.table(x, file = "FUCI_tidy_dataset.txt", row.name=FALSE)
 
 + to load output file use:
-y <- read.table("FUCI_tidy_dataset.txt", header = T)
+y <- read.table("FUCI_tidy_dataset.txt", header = TRUE)
 
 
  
