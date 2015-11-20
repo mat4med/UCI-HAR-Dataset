@@ -14,8 +14,8 @@
 
 ### Processed data
 
-_italics data is processed in concise steps to minimize the required mainuplation and 
-_italics to obtain a tidy data in small number of steps 
+_data is processed in concise steps to minimize the required mainuplation and_
+_to obtain a tidy data in small number of steps_
 
 1. Merge 'train' and 'test' datasets
 	+ 'train/X_train.txt' and 'test/X_test.txt' are merged together, then
@@ -59,7 +59,7 @@ fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fB
 
 mean(), Mean value, and std(), Standard deviation: are estimated from these signals
 
-
+```{r tidy=FALSE}
 subject
 activities
 tBodyAcc.mean.X
@@ -148,5 +148,5 @@ fBodyAccMag.std
 fBodyBodyAccJerkMag.std
 fBodyBodyGyroMag.std
 fBodyBodyGyroJerkMag.std
-
+```
 	
