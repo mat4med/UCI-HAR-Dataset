@@ -1,5 +1,6 @@
 
 _script: run_analysis.R_
+
 _created: November 14, 2015_
 
 
@@ -13,7 +14,7 @@ _created: November 14, 2015_
 3. 'train' dataset should be saved under 'train' directory,
  and 'test' dataset should be saved under 'test' directory.
 
-4. 3. run: x <- run_analysis()
+4. run: x <- run_analysis()
  
 5. the script returns a dataset in 'local data table' format
 
